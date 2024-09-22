@@ -4,13 +4,13 @@ I'm Dev a passinated and insomniac in Cloud Computing from India.
 
 **About me**
 
-- 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/)
+- ❤️ I Love Cloud Just Like Real Love.
 
-- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
+- 💼 PHP With MySql.
 
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
+- 📈 You can check my own website https://devai.in
 
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
+- 💬 Ask me about anything [here](mailto:support@devai.in)
 
 <p align="center"><a href="https://devai.in"><img width="80%" alt="Hello, I'm Dev I do open source!" src="https://raw.githubusercontent.com/weby-dev/weby-dev/refs/heads/main/img/Untitled%20design.gif" /></a></p>
 
