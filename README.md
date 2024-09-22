@@ -1,4 +1,4 @@
-<img src"https://raw.githubusercontent.com/weby-dev/weby-dev/refs/heads/main/img/banner.png">
+<img src="https://raw.githubusercontent.com/weby-dev/weby-dev/refs/heads/main/img/banner.png">
 
 <p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
 
