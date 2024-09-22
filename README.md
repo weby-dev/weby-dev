@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/weby-dev/weby-dev/refs/heads/main/img/banner.png">
 
-<p align="center"><a href="https://devai.in"><img width="50%" height="20&" alt="Hello, I'm Dev I do open source!" src="https://raw.githubusercontent.com/weby-dev/weby-dev/refs/heads/main/img/Untitled%20design.gif" /></a></p>
+<p align="center"><a href="https://devai.in"><img width="80%" alt="Hello, I'm Dev I do open source!" src="https://raw.githubusercontent.com/weby-dev/weby-dev/refs/heads/main/img/Untitled%20design.gif" /></a></p>
 
 <br />
 
