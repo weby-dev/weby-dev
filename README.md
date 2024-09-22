@@ -1,5 +1,4 @@
 <img src="https://raw.githubusercontent.com/weby-dev/weby-dev/refs/heads/main/img/banner.png">
-<p align="center"><a href="https://devai.in"><img width="80%" alt="Hello, I'm Dev I do open source!" src="https://raw.githubusercontent.com/weby-dev/weby-dev/refs/heads/main/img/Untitled%20design.gif" /></a></p>
 
 I'm Dev a passinated and insomniac in Cloud Computing from India.
 
@@ -12,6 +11,9 @@ I'm Dev a passinated and insomniac in Cloud Computing from India.
 - ❤️ I love writing TypeScript, and building fun experiments on type-level
 
 - 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
+
+<p align="center"><a href="https://devai.in"><img width="80%" alt="Hello, I'm Dev I do open source!" src="https://raw.githubusercontent.com/weby-dev/weby-dev/refs/heads/main/img/Untitled%20design.gif" /></a></p>
+
 
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
