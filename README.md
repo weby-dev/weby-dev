@@ -1,106 +1,162 @@
-<h1 align="center">Hi 👋, I'm Dev Varshney</h1>
-
-<h3 align="center">
-Founder of GetWebUp • Full Stack Developer • Cloud Enthusiast • Proxmox Automation Builder
-</h3>
-
+<!-- ====== HEADER BANNER ====== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Building+GetWebUp;Web+Hosting+%26+Cloud+Solutions;PHP+%7C+JavaScript+%7C+Linux+%7C+Proxmox;Future+Cloud+Platform+Founder" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:1E40AF&height=200&section=header&text=Dev%20Varshney&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Founder%20of%20GetWebUp%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Cloud%20%26%20Proxmox%20Builder&descSize=18&descAlignY=56" alt="header" />
 </p>
 
----
+<!-- ====== TYPING SVG ====== -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Building+GetWebUp+%F0%9F%9A%80;Web+Hosting+%26+Cloud+Solutions;PHP+%7C+JavaScript+%7C+Linux+%7C+Proxmox;Future+Cloud+Platform+Founder" alt="Typing SVG" />
+</p>
 
-## 🚀 About Me
+<!-- ====== TOP BADGES ====== -->
+<p align="center">
+  <a href="https://getwebup.in" target="_blank">
+    <img src="https://img.shields.io/badge/Website-getwebup.in-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="website" />
+  </a>
+  <a href="mailto:contact@getwebup.in">
+    <img src="https://img.shields.io/badge/Email-contact@getwebup.in-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=weby-dev&label=Profile+Views&color=3B82F6&style=for-the-badge" alt="profile views" />
+</p>
 
-- 🎓 B.Tech Student
-- 💼 Founder of **GetWebUp**
-- ☁️ Building Hosting & Cloud Infrastructure Solutions
-- 🖥️ Working with **Proxmox, Linux, Virtualization & Automation**
-- 🌐 Full Stack Developer
-- 📚 Currently mastering **PHP, JavaScript & Cloud Management**
-- 🎯 Long Term Goal: Build a Global Cloud Storage Platform
+<br>
 
----
+<!-- ====== ABOUT ME ====== -->
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
-## 🏢 Current Project
+```yaml
+name: Dev Varshney
+role: Founder @ GetWebUp
+education: B.Tech Student
+focus: Hosting • Cloud Infrastructure • Proxmox Automation
+stack: PHP • JavaScript • Linux • Virtualization
+currently_learning: [ Cloud Architecture, Advanced PHP, DevOps Automation ]
+long_term_goal: Build a Global Cloud Storage Platform 🌍
+```
 
-### 🚀 GetWebUp
+- 🚀 Building **GetWebUp** — a modern hosting & cloud platform
+- ☁️ Designing **Proxmox automation**, VPS provisioning & deployment pipelines
+- 🖥️ Living in the world of **Linux, virtualization & infrastructure**
+- 🌐 Shipping full-stack web apps end to end
+- 💬 Ask me about **web hosting, Proxmox, or cloud infra**
 
-A modern hosting and cloud platform focused on:
+<br>
 
-- VPS Hosting
-- Proxmox Automation
-- Cloud Infrastructure
-- Web Hosting Solutions
-- Customer Management Systems
-- Deployment Automation
+<!-- ====== CURRENT PROJECT ====== -->
+## 🏢 Current Project — GetWebUp
 
----
+> A modern hosting & cloud platform built for performance, automation, and scale.
 
+<table>
+  <tr>
+    <td>🖥️ <b>VPS Hosting</b></td>
+    <td>⚙️ <b>Proxmox Automation</b></td>
+    <td>☁️ <b>Cloud Infrastructure</b></td>
+  </tr>
+  <tr>
+    <td>🌐 <b>Web Hosting Solutions</b></td>
+    <td>👥 <b>Customer Management</b></td>
+    <td>🚀 <b>Deployment Automation</b></td>
+  </tr>
+</table>
+
+<br>
+
+<!-- ====== TECH STACK ====== -->
 ## 🛠️ Tech Stack
 
-### Backend
+#### 💻 Languages
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+</p>
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+#### 🧩 Backend & Databases
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+</p>
 
-### Frontend
+#### 🎨 Frontend
+<p>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+</p>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+#### ☁️ Cloud · DevOps · Infrastructure
+<p>
+  <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
-### Cloud & DevOps
+<br>
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-
----
-
+<!-- ====== GITHUB STATS ====== -->
 ## 📈 GitHub Stats
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=weby-dev&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weby-dev&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=weby-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weby-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=weby-dev&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=weby-dev&theme=tokyonight&hide_border=true" alt="streak" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=weby-dev&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies" />
+</p>
 
+<p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=weby-dev&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=3B82F6&line=3B82F6&point=ffffff&area=true" alt="activity graph" />
+</p>
+
+<br>
+
+<!-- ====== 2026 GOALS ====== -->
 ## 🎯 2026 Goals
 
-- Build a Production Grade Cloud Platform
-- Launch Advanced Proxmox Management Panel
-- Scale GetWebUp Hosting Infrastructure
-- Contribute More to Open Source
-- Master Cloud Architecture
+- [ ] 🚀 Build a **production-grade cloud platform**
+- [ ] 🧭 Launch an **advanced Proxmox management panel**
+- [ ] 📈 Scale **GetWebUp** hosting infrastructure
+- [ ] 🌱 Contribute more to **open source**
+- [ ] ☁️ Master **cloud architecture**
 
----
+<br>
 
+<!-- ====== CONNECT ====== -->
 ## 🌎 Connect With Me
 
-<p align="left">
-<a href="https://getwebup.in" target="_blank">
-<img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
-</a>
-
-<a href="mailto:contact@getwebup.in">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<p align="center">
+  <a href="https://getwebup.in" target="_blank">
+    <img src="https://img.shields.io/badge/Website-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="mailto:contact@getwebup.in">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/weby-dev" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
----
+<br>
 
-<div align="center">
-
-### ⚡ Building the Future of Hosting & Cloud Infrastructure
-
-<img src="https://komarev.com/ghpvc/?username=weby-dev&label=Profile+Views&color=0e75b6&style=flat" />
-
-</div>
+<!-- ====== FOOTER ====== -->
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E40AF,100:3B82F6&height=120&section=footer&text=Building%20the%20Future%20of%20Hosting%20%26%20Cloud%20Infrastructure&fontSize=18&fontColor=ffffff&fontAlignY=72" alt="footer" />
+</p>
