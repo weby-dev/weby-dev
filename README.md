@@ -1,46 +1,106 @@
-<img src="https://raw.githubusercontent.com/weby-dev/weby-dev/refs/heads/main/img/banner.png">
+<h1 align="center">Hi 👋, I'm Dev Varshney</h1>
 
-I'm Dev a passinated and insomniac in Cloud Computing from India.
+<h3 align="center">
+Founder of GetWebUp • Full Stack Developer • Cloud Enthusiast • Proxmox Automation Builder
+</h3>
 
-**About me**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Building+GetWebUp;Web+Hosting+%26+Cloud+Solutions;PHP+%7C+JavaScript+%7C+Linux+%7C+Proxmox;Future+Cloud+Platform+Founder" />
+</p>
 
-- ❤️ I Love Cloud Just Like Real Love.
+---
 
-- 💼 PHP With MySql.
+## 🚀 About Me
 
-- 📈 You can check my own website https://devai.in
+- 🎓 B.Tech Student
+- 💼 Founder of **GetWebUp**
+- ☁️ Building Hosting & Cloud Infrastructure Solutions
+- 🖥️ Working with **Proxmox, Linux, Virtualization & Automation**
+- 🌐 Full Stack Developer
+- 📚 Currently mastering **PHP, JavaScript & Cloud Management**
+- 🎯 Long Term Goal: Build a Global Cloud Storage Platform
 
-- 💬 Ask me about anything [here](mailto:support@devai.in)
+---
 
-<p align="center"><a href="https://devai.in"><img width="80%" alt="Hello, I'm Dev I do open source!" src="https://raw.githubusercontent.com/weby-dev/weby-dev/refs/heads/main/img/Untitled%20design.gif" /></a></p>
+## 🏢 Current Project
 
+### 🚀 GetWebUp
 
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+A modern hosting and cloud platform focused on:
 
+- VPS Hosting
+- Proxmox Automation
+- Cloud Infrastructure
+- Web Hosting Solutions
+- Customer Management Systems
+- Deployment Automation
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+---
 
-#### Top Repositories
+## 🛠️ Tech Stack
 
+### Backend
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+
+### Frontend
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Cloud & DevOps
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=weby-dev&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weby-dev&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=weby-dev&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🎯 2026 Goals
+
+- Build a Production Grade Cloud Platform
+- Launch Advanced Proxmox Management Panel
+- Scale GetWebUp Hosting Infrastructure
+- Contribute More to Open Source
+- Master Cloud Architecture
+
+---
+
+## 🌎 Connect With Me
+
+<p align="left">
+<a href="https://getwebup.in" target="_blank">
+<img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
 </a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
-</a>
 
-<br />
-<br />
+<a href="mailto:contact@getwebup.in">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
 
-<a href="https://twitter.com/devxvarshney">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://codesandbox.io/u/devxvarshney">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
+---
+
+<div align="center">
+
+### ⚡ Building the Future of Hosting & Cloud Infrastructure
+
+<img src="https://komarev.com/ghpvc/?username=weby-dev&label=Profile+Views&color=0e75b6&style=flat" />
+
+</div>
