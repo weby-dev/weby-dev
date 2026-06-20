@@ -5,11 +5,11 @@
 
 <!-- ====== NAME + TITLE ====== -->
 <h1 align="center">Dev Varshney</h1>
-<h3 align="center">Founder of GetWebUp &nbsp;&middot;&nbsp; Full-Stack Developer &nbsp;&middot;&nbsp; Cloud &amp; Proxmox Automation Builder</h3>
+<h3 align="center">Building Getwebup &nbsp;&middot;&nbsp; Full-Stack Developer &nbsp;&middot;&nbsp; I make servers run themselves</h3>
 
 <!-- ====== TYPING SVG ====== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Building+GetWebUp;Web+Hosting+%26+Cloud+Solutions;PHP+%7C+JavaScript+%7C+Linux+%7C+Proxmox;Future+Cloud+Platform+Founder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Building+Getwebup;Web+Hosting+%26+Cloud+Solutions;PHP+%7C+JavaScript+%7C+Linux+%7C+Proxmox;Making+Servers+Run+Themselves" alt="Typing SVG" />
 </p>
 
 <!-- ====== TOP BADGES ====== -->
@@ -17,10 +17,15 @@
   <a href="https://getwebup.in" target="_blank">
     <img src="https://img.shields.io/badge/Website-getwebup.in-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="website" />
   </a>
-  <a href="mailto:contact@getwebup.in">
-    <img src="https://img.shields.io/badge/Email-contact@getwebup.in-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
+  <a href="mailto:dev@getwebup.com">
+    <img src="https://img.shields.io/badge/Email-dev@getwebup.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=weby-dev&label=Profile+Views&color=3B82F6&style=for-the-badge" alt="profile views" />
+</p>
+
+<!-- ====== ROTATING DEV QUOTE ====== -->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="dev quote" />
 </p>
 
 ---
@@ -29,9 +34,9 @@
 
 <img align="right" width="330" src="img/Untitled%20design.gif" alt="Dev animated logo" />
 
-I am a B.Tech student and the founder of **GetWebUp**, where I build modern hosting and cloud infrastructure. My focus is turning raw servers into clean, automated, production-ready platforms through Proxmox automation, virtualization, and full-stack development.
+Give me a bare server and I will hand you back a self-running cloud. I am a B.Tech student building **Getwebup**, a modern hosting and cloud platform, and I spend most of my time automating away the tedious parts of infrastructure with Proxmox, Linux, and a lot of full-stack code. My rule of thumb: if a task has to be done twice, I would rather write a script that does it forever.
 
-- Building **GetWebUp**, a modern hosting and cloud platform
+- Building **Getwebup**, a modern hosting and cloud platform
 - Designing **Proxmox automation**, VPS provisioning, and deployment pipelines
 - Working daily with **Linux, virtualization, and infrastructure**
 - Shipping **full-stack web apps** end to end
@@ -42,7 +47,7 @@ I am a B.Tech student and the founder of **GetWebUp**, where I build modern host
 
 ---
 
-## Current Project: GetWebUp
+## Current Project: Getwebup
 
 > A modern hosting and cloud platform built for performance, automation, and scale.
 
@@ -129,7 +134,7 @@ I am a B.Tech student and the founder of **GetWebUp**, where I build modern host
 
 - [ ] Build a production-grade cloud platform
 - [ ] Launch an advanced Proxmox management panel
-- [ ] Scale GetWebUp hosting infrastructure
+- [ ] Scale Getwebup hosting infrastructure
 - [ ] Contribute more to open source
 - [ ] Master cloud architecture
 
@@ -141,7 +146,7 @@ I am a B.Tech student and the founder of **GetWebUp**, where I build modern host
   <a href="https://getwebup.in" target="_blank">
     <img src="https://img.shields.io/badge/Website-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
-  <a href="mailto:contact@getwebup.in">
+  <a href="mailto:dev@getwebup.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/weby-dev" target="_blank">
