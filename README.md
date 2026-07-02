@@ -121,10 +121,6 @@ Give me a bare server and I will hand you back a self-running cloud. I am a B.Te
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=weby-dev&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies" />
-</p>
-
-<p align="center">
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=weby-dev&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=3B82F6&line=3B82F6&point=ffffff&area=true" alt="activity graph" />
 </p>
 
